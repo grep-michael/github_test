@@ -4,7 +4,7 @@
   "description": "A test project for learning git",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "nodemon app.js"
   },
   "author": "MichaelKnudsen",
   "license": "ISC",
